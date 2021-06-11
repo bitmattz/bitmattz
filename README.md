@@ -14,7 +14,7 @@
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=nodejs&logoColor=white&labelColor=8E2DE2)
 ![typescript](https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
 <br>
-![C#](https://img.shields.io/badge/-c#-grey?style=for-the-badge&logo=c#&logoColor=white&labelColor=8E2DE2)
+![Csharp](https://img.shields.io/badge/-c#-grey?style=for-the-badge&logo=csharp&logoColor=white&labelColor=8E2DE2)
 ![postgresql](https://img.shields.io/badge/-postgresql-grey?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
