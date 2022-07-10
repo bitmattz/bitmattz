@@ -5,11 +5,9 @@
 
 
 ## Social
-<a href="https://www.instagram.com/math.bit/"><img src="https://img.shields.io/badge/instagram-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<br>
 <a href="https://www.linkedin.com/in/matheus-bitencourt-araujo/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
-<a href="https://discord.gg/8cR3XC7m8q"><img alt="Discord" src="https://img.shields.io/badge/Discord Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/HRMKRSsbUA"><img alt="Discord" src="https://img.shields.io/badge/Discord Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 
 ## Dev
