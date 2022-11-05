@@ -1,8 +1,5 @@
 
 ![BitMattz GitHub stats](https://github-readme-stats.vercel.app/api?username=bitmattz&show_icons=true&theme=tokyonight)
-# About Me
-
-
 
 ## Social
 <a href="https://www.linkedin.com/in/matheus-bitencourt-araujo/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -19,6 +16,8 @@
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
+<img alt="Typescript" src="https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
 
 
@@ -33,4 +32,5 @@
 ### Databases
 <a><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+<a><img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23E34F26.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
 
